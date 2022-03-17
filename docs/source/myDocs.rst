@@ -4,6 +4,8 @@ myDocs
 Nagłówek 2 stopnia
 ------------------
 
+.. _startmydocs:
+
 To jest przykładowy zwykły tekst w nagłówku 2 stopnia
 
 Nagłówek 3 stopnia
@@ -18,5 +20,38 @@ Nagłówek 4 stopnia
 
 .. tip::
    to jest przykładowa wskazówka w nagłówku 4 stopnia
+
+
+.. code:: javascript
+
+   function myfunc(y){
+       let x = 10
+        return x+y
+   }
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+
+Przykładowy link do googla `Google <https://mrdoob.com/projects/chromeexperiments/google-gravity/>`
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets 
+containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker 
+including versions of Lorem Ipsum.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets 
+containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker 
+including versions of Lorem Ipsum.
+
+Link Wewnętrzny :ref:`startmydocs`
 
 
