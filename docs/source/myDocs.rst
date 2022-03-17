@@ -34,7 +34,7 @@ Nagłówek 4 stopnia
    (.venv) $ pip install lumache
 
 
-Przykładowy link do googla `Google <https://mrdoob.com/projects/chromeexperiments/google-gravity/>`
+Przykładowy link do googla `Google <https://mrdoob.com/projects/chromeexperiments/google-gravity/>`_
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
