@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   mydocs
+   myDocs
