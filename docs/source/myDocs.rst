@@ -1,4 +1,4 @@
-Moja Dokumentacja
+mydocs
 =====================
 
 Nagłówek 1 stopnia
