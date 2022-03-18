@@ -69,4 +69,4 @@ how
    a to jest jego wytłumaczenie
 
 
-.. image:: drzewko.webp
+.. image:: zsegw.png
