@@ -70,3 +70,15 @@ how
 
 
 .. image:: img/zsegw.png
+   :alt: to jest tekst alternatywny do obrazka
+
+
+.. table:: Truth table for "not"
+   :widths: auto
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
