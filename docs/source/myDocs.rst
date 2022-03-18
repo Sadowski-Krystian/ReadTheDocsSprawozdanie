@@ -73,12 +73,12 @@ how
    :alt: to jest tekst alternatywny do obrazka
 
 
-.. table:: Truth table for "not"
+.. table:: Nagłówek ogólny tabelki
    :widths: auto
 
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
+   ====================    ==================
+     Nagłówek 1 Kolumny    Nagłówek 2 kolumny
+   ====================    ==================
+   pierwsa wartość wiersza  Dróga wartość weirsza
+   True                         False
+   ====================    ==================
