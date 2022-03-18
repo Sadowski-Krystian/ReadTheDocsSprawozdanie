@@ -80,4 +80,5 @@ how
      Nagłówek 1 Kolumny    Nagłówek 2 kolumny
    ====================    ==================
      Wartość 1 wiersza      Wartość 2 wiersza
+     True                   False
    ====================    ==================
