@@ -79,6 +79,5 @@ how
    ====================    ==================
      Nagłówek 1 Kolumny    Nagłówek 2 kolumny
    ====================    ==================
-   pierwsa wartość wiersza  Dróga wartość weirsza
-   True                         False
+     Wartość 1 wiersza      Wartość 2 wiersza
    ====================    ==================
