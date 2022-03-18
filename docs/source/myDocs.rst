@@ -60,4 +60,10 @@ Link Wewnętrzny :doc:`usage`
 
 1. Lista numerowana 1 poziomu
 #. To jest element listy numerowany automatycznie
-   (A) To jest 3 element listy
+
+
+what
+   To jest przykładowy teksct jak coś zrobić
+
+how
+   a to jest jego wytłumaczenie
