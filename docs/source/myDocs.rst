@@ -59,4 +59,4 @@ Link Wewnętrzny :doc:`usage`
       - Lista wypunktowana 3 poziom
 
 1. Lista numerowana 1 poziomu
-   (A) Lista numerowana 2 poziomu
+#. To jest element listy numerowany automatycznie
