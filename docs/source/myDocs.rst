@@ -69,4 +69,4 @@ how
    a to jest jego wytłumaczenie
 
 
-.. image:: zsegw.png
+.. image:: img/zsegw.png
