@@ -58,3 +58,5 @@ Link Wewnętrzny :doc:`usage`
    + Lista wypunktowana 2 poziom
       - Lista wypunktowana 3 poziom
 
+1. Lista numerowana 1 poziomu
+   (A) Lista numerowana 2 poziomu
